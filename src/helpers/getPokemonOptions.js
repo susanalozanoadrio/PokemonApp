@@ -1,4 +1,4 @@
-import pokemonApi from "../../api/pokemonApi"
+import pokemonApi from "@/api/pokemonApi"
 
 //creamos el array
 const getPokemons = () => {
